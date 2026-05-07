@@ -1,16 +1,23 @@
-## Hi there 👋
+## AlfaReport
 
-<!--
-**alfareport/alfareport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Lightweight PDF report engine driven by JavaScript scripts.
 
-Here are some ideas to get you started:
+AlfaReport is an independent project focused on deterministic PDF report generation without HTML rendering or headless browsers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The engine is written in C and designed for:
+
+- server-side reporting
+- automation pipelines
+- embedded environments
+- low-overhead deployments
+
+Current focus areas:
+
+- table rendering
+- pagination
+- text wrapping
+- predictable layouts
+- fast startup performance
+
+Website:
+[https://alfareport.com](https://alfareport.com)
